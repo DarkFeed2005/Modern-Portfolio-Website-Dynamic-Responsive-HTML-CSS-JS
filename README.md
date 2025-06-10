@@ -24,7 +24,7 @@ This fully responsive portfolio website, built with HTML, CSS and Javascript. Th
 Clone the repository :
 
 ```sh
-git clone https://github.com/DarkFeed2005/portfolio-website.git
+git clone https://github.com/DarkFeed2005/Modern-Portfolio-Website-Dynamic-Responsive-HTML-CSS-JS.git
 ```
 ```bash
 cd portfolio-website
